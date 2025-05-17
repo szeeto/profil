@@ -1,3 +1,6 @@
+body::-webkit-scrollbar {
+  display: none; /* Untuk Chrome, Safari, dan Edge */
+}
 body {
   margin-top: 20px;
   color: #1a202c;
